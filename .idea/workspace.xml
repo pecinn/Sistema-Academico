@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d713dab3-abaf-415b-b086-8bed404a80db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Yu6UftTGv5hqDNWCf61wUwKrtQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php" scriptParameters="$FileDir$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d713dab3-abaf-415b-b086-8bed404a80db" name="Default Changelist" comment="" />
+      <created>1583780148635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583780148635</updated>
+      <workItem from="1583780150199" duration="298000" />
+      <workItem from="1583782025253" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="921" y="155" key="#PHP" timestamp="1583780338006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="921" y="155" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1583780338006" />
+    <state x="668" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583780409546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583780409546" />
+    <state x="994" y="270" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583780403613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="994" y="270" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583780403613" />
+    <state x="933" y="253" key="#index.php" timestamp="1583780373502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="933" y="253" key="#index.php/0.0.1920.1040@0.0.1920.1040" timestamp="1583780373502" />
+    <state x="910" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1583782026333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="910" y="389" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583782026333" />
+  </component>
+</project>

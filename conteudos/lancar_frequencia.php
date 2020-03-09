@@ -1,0 +1,1 @@
+lancar_frequencia
